@@ -11,8 +11,9 @@ This is a simple React-Node starter pack which uses *React* for the client side 
 ~~~shell
 git clone https://github.com/pankaja92/create-react-app-node.git
 cd create-react-app-node
-npm install
 cd client && npm install
+cd ..
+npm install
 ~~~
 
 #### Deploy on Heroku
