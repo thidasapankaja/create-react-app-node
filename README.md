@@ -32,8 +32,8 @@ git push heroku master
 
 ### Todo 
 
-[] Add Hot reloading
-[] Add Auto Build on React App
+- [ ] Add Hot reloading on React App
+- [ ] Add Auto Build on React App
 
 #### This is not recommended from production as this project is still undergoing development and optimization
 
