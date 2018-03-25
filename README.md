@@ -12,6 +12,7 @@ This is a simple React-Node starter pack which uses *React* for the client side 
 git clone https://github.com/pankaja92/create-react-app-node.git
 cd create-react-app-node
 cd client && npm install
+npm run build
 cd ..
 npm install
 ~~~
@@ -28,6 +29,13 @@ git push heroku master
 * [express](https://expressjs.com/)
 * [concurrently](https://www.npmjs.com/package/concurrently)
 * [nodemon](https://www.npmjs.com/package/nodemon)
+
+### Todo 
+
+[] Add Hot reloading
+[] Add Auto Build on React App
+
+#### This is not recommended from production as this project is still undergoing development and optimization
 
 ##
 

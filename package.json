@@ -1,5 +1,5 @@
 {
-  "name": "react-node",
+  "name": "create-react-app-node",
   "version": "1.0.0",
   "description": "This is a starter pack for React App with Node backend which can be directly hosted on heroku",
   "main": "index.js",
