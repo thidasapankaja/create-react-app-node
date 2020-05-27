@@ -2,7 +2,7 @@
 
 ###### ( 5 minutes Hosting on Heroku - No configuration needed )
 
-This is a simple React-Node starter pack which uses *React* for the client side and *Nodejs* for server. This example is hosted on [Heroku](https://create-react-app-node.herokuapp.com/).
+This is a simple React-Node starter pack which uses *React* for the client side and *Nodejs* for server.
 
 *React App* was built using [create-react-app](https://github.com/facebook/create-react-app) boilerplate.
 
